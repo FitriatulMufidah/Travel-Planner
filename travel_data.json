@@ -1,0 +1,35 @@
+{
+    "travel_list": [
+        {
+            "id": 10,
+            "nama": "universal studio japan",
+            "lokasi": "jepang",
+            "durasi": "2 hari",
+            "transportasi": "pesawat",
+            "tanggal": "12-11-2025",
+            "biaya": 3000000,
+            "catatan": ""
+        },
+        {
+            "id": 11,
+            "nama": "candi borobudur",
+            "lokasi": "yogyakarta",
+            "durasi": "1 hari",
+            "transportasi": "bis",
+            "tanggal": "13-11-2025",
+            "biaya": 1000000,
+            "catatan": ""
+        },
+        {
+            "id": 12,
+            "nama": "museum louvre",
+            "lokasi": "prancis",
+            "durasi": "1 hari",
+            "transportasi": "pesawat",
+            "tanggal": "17-12-2025",
+            "biaya": 5000000,
+            "catatan": ""
+        }
+    ],
+    "next_id": 13
+}
